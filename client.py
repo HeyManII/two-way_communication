@@ -1,6 +1,4 @@
 # Using python 3.8.5
-# Chu Ka Wai 22073291g
-# COMP 5311 assginment
 
 from socket import *
 import threading
